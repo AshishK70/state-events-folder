@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/state-events-folder/static/css/main.29b0e223.css",
+    "main.js": "/state-events-folder/static/js/main.76b59484.js",
+    "index.html": "/state-events-folder/index.html",
+    "main.29b0e223.css.map": "/state-events-folder/static/css/main.29b0e223.css.map",
+    "main.76b59484.js.map": "/state-events-folder/static/js/main.76b59484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.76b59484.js"
+  ]
+}
